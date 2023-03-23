@@ -37,10 +37,10 @@ export default function Navbar() {
         <li>
           <a
             className="inline-flex items-center gap-2 rounded-lg px-3 py-2"
-            href=""
+            href="https://github.com/febriaricandra/cmlabs-frontend-fulltime-test"
             target="_blank"
           >
-            Search
+            Github
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
