@@ -15,6 +15,8 @@ This project was created by [febriaricandraguritno]
 - Node.js
 - NPM
 
+## step to initiate project
+
 ### step 1
 Buka terminal atau command prompt di komputer Anda.
 
